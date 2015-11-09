@@ -26,6 +26,8 @@ brew cask install dropbox
 brew cask install vagrant
 brew cask install virtualbox
 brew cask install virtualbox-extension-pack
+brew cask install java
+brew cask install eclipse-java
 
 # Media
 brew cask install vlc
@@ -33,4 +35,7 @@ brew cask install handbrake
 brew cask install handbrakecli
 
 brew cleanup
+
+echo Remember to change Java settings to disable in the browser...
+
 
