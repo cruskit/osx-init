@@ -17,6 +17,7 @@ brew doctor
 brew tap caskroom/versions
 
 # Brew Utilities 
+brew install wakeonlan
 brew install caskroom/cask/brew-cask
 
 # Cask Development Tools
